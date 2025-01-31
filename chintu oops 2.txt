@@ -1,0 +1,28 @@
+oops concepts :
+* object oriented programing language is about creating an objects that contains data and methods.
+>objects - object is a data fied with uique attribute. are real world entity and physical entity.
+>class -    define the structure of an object.defines the data field and the operations of an object.contains attribute and methods.Here we use object (obj.attri/meth) to call the attributes and methods.which we follow the blue print of a class.
+>encapsulation - wraping up of data and methods.(or) Arranging a data and methods in a single unit called encapsulation.
+                ex: class.
+                 we use access specifiers to protect the data and methods. 
+>abstraction - hiding an applications internal details. #hiding implimentation- is hiding the implementation of a functionality.
+                #essential functionality-visible.
+                #method overriding.
+>data hiding -  is a oop that hides a class internal details fron other parts of program.is protecting from unauthorised access by using access specifiers.
+                access apecifiers are private and public.
+                private : in a private we can't access it from outside the class.
+                public  : in a private we can access it from outside and inside the class.
+>inheritance -  it is a mechanism that allows a class to inherit properties and methods from an other class.like a parent-child relationship. child will accure the properties of parent.
+                there are two classes 
+                1)base class - also called parent class and super class.
+                2)derived class -also called child and sub classes.In a parent and child class we have object,so we can access the parent and child classes by using single object.
+-single inheritance :where a class inherits from a single class. which is having a parent and child objects. in this we can access the parent variables and methods with the child object.  
+-multilevel inheritance:where a class inherits its  properties from a class that is alreaedy derived from an other class.In multilevel there are grandparent,parent and child objects.In this we can access the grandparent variables by using parent object and we can access the parent and grandparent variables with the child object.
+-Hierarchical inheritance:a way to create a class hirarchy by deriving multiple classes from a single base class.In this inheritance there are one parent object and two child objects.
+-Multiple inheritance:allows a class to inherit from more then one parent class.In a multiple inheritance there are two parent objects and a one child object.
+<polymorphisim:the ability of single interface to represent multiple types of data.We can implement a single thing in a different ways called polymorphisim.
+-compile-time polymorphisim:there are two types
+                            1)operator overloading:ex:we are representing a single opertor in a mutiple ways.
+                            2)method overloading:parameters are different.
+-rum time polymorphisim   : 1)method overriding: same name and same parameter. overriding the base class method to a derived class method is called .
+                            
