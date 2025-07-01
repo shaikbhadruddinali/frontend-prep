@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title> Food website </title>
+        <link rel ="stylesheet" href ="style.css">
+             <title>My portofolio - Home</title>
+    </head>
+       <body>
+        <header>
+            <h1>My Portfolio</h1>
+            <nav>
+            
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="projects.html">Projects</a>
+                <a href="contact.html">Contact</a>
+            
+              </nav>
+              </header>  
+              <div class="container">
+                
+                <image src ="myphoto.jpg.jpeg" alt="myimage" width="200px" height="200px"></image>
+                <div class="text-content">
+                <h2>Hi, I'm Bhadruddin</h2>
+                <p1> I'm a Web Developer </p1>
+                <p>I am Bhadruddin Ali Shaik, a motivated and detail-oriented Web Developer with a growing expertise in HTML, CSS, JavaScript, and modern web design principles. I am passionate about crafting clean, responsive, and user-friendly websites that deliver excellent user experiences across desktops, tablets, and mobile devices.
+                
+With a strong foundation in front-end development, I have developed multiple-page websites including home, about, contact, and service pages with intuitive layouts and interactive elements. My work reflects a keen eye for design and usability, ensuring websites not only look good but are also functional and accessible.
+
+In addition to core web technologies, I am continuously learning and working with tools and frameworks such as:
+
+Bootstrap for faster and mobile-first design
+
+Responsive design techniques using media queries and flexbox/grid
+
+Basic JavaScript programming for interactivity (such as form validation, dynamic content, and animations)
+
+Git & GitHub for version control and collaboration
+
+I enjoy taking on real-world projects and continuously improving my coding skills. My interest also extends to learning backend basics (such as Node.js and PHP) and understanding how full-stack applications work.
+
+Currently, I am focused on building a strong portfolio that showcases my abilities and preparing myself for opportunities in the field of web development where I can contribute meaningfully to a development team, grow as a professional, and solve challenging problems through code.</p>
+                </div>
+                </div>
+            
+           
+
+            <footer>
+                <p>@ 2025 Bhadruddin Ali.All rights reserved.</p>
+            </footer>
+            
+            
+            <script src="index.js"></script>
+                 
+       </body>
+ </html>       
